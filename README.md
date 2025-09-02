@@ -40,9 +40,7 @@
   - License: GNU General Public License v3.0 (GPLv3)
   - Actively maintained community tool
 
-- **[DH-Forge](https://github.com/search?q=DH-Forge)** - Open-source toolkit for character and game data management
-  - Common language between different digital tools
-  - Data standardization for Daggerheart resources
+- **[Editable character sheets](https://drive.google.com/drive/folders/1RwHLjhRWmO4fyFUyMKOvd7LzVKawTEgo)** - Editable PDF versions of Daggerheart character sheets
 
 ## Encounter & Combat Tools
 
