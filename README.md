@@ -21,16 +21,7 @@
 
 ## Official Resources
 
-### Free Downloads from Daggerheart.com
-- **Character Creation Sheet** - Official character creation form
-- **Sidecar** - Companion character tracking sheet
-- **Play Guide** - Quick reference for players
-- **Load Out Sheet** - Equipment and inventory tracking
-- **Vault Sheet** - Storage and treasure management
-- **Equipment Reference** - Complete equipment listings
-- **Multiclass Sheet** - Advanced character options
-- **GM Guide** - Game master quick reference
-- **Print-Friendly Versions** - Simple, ink-saving formats
+- **[Daggerheart SRD](https://github.com/seansbox/daggerheart-srd)**
 
 ## Character & Game Management
 
