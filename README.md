@@ -48,6 +48,7 @@
   - Card creator and community sharing
   - Adversary creator and community sharing
   - DM screen
+- **[Perchance](https://perchance.org/daggerheart-rng)** - Random character generator
 
 ## Encounter & Combat Tools
 
