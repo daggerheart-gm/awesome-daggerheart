@@ -41,6 +41,9 @@
   - Actively maintained community tool
 
 - **[Editable character sheets](https://drive.google.com/drive/folders/1RwHLjhRWmO4fyFUyMKOvd7LzVKawTEgo)** - Editable PDF versions of Daggerheart character sheets
+
+### Free to use
+
 - **[Daggerheart brews](https://www.daggerheartbrews.com/)** - Tools for running a Daggerheart game
   - Card creator and community sharing
   - Adversary creator and community sharing
