@@ -41,6 +41,13 @@
   - DM screen
 - **[Perchance](https://perchance.org/daggerheart-rng)** - Random character generator
 
+- **[DaggerHub](https://daggerhub.com/)** - Free character builder, campaign manager, encounter builder, and homebrew tools
+  - Character sheets with dice rolling and domain/ancestry cards
+  - Campaign dashboards with player invites, fear tracker, and countdowns
+  - Encounter builder with adversaries and a battle points calculator
+  - Homebrew content creation and sharing
+  - Includes Daggerheart SRD 1.0 content under the DPCGL
+
 ## Encounter & Combat Tools
 
 ### Web-Based Encounter Builders
