@@ -64,6 +64,10 @@
   - Non-commercial fan project
   - Easy access to SRD information
 
+### Generators
+- **[DmsTinyHut Encounter generator](https://dmstinyhut.com/daggerheart/generate/encounter)** - Free Non-ai encounter generator that makes sense for your party. With complete SRD adversary database.
+- **[DmsTinyHut Loot generator](https://dmstinyhut.com/daggerheart/generate/loot)** - Free Non-ai loot generator based on the Loot tables from the SRD.
+
 ## Virtual Tabletop Systems
 
 ### FoundryVTT Systems
