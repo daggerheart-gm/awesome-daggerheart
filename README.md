@@ -44,6 +44,11 @@
 ## Encounter & Combat Tools
 
 ### Web-Based Encounter Builders
+- **[Arcanum Adversaria](https://arcanum-adversaria.com)** - Free Daggerheart GM toolkit
+  - Searchable SRD adversary & environment library and encounter planner with SRD battle-point budgeting
+  - Shop/loot builder, campaign & session tracking, and homebrew adversaries
+  - Free to use, optional paid creator content sets
+
 - **[FreshCutGrass.app](https://freshcutgrass.app)** - Comprehensive Daggerheart encounter manager and GM screen
   - Fantastic 'GM Screen'/Encounter Builder described as "such a well made browser app"
   - Includes homebrew adversary support
