@@ -108,6 +108,8 @@
   - Session tracking and notes
   - Community-shared GM resources
 
+- **[Masterlens](https://masterlens.io)** - AI-assisted campaign reference for characters, locations, events, and lore. Ask questions about what happened in your campaign. Free tier available.
+
 ### Community Hubs
 - **[Delve With Hope - Daggerheart Resources](https://blog.delvewithhope.com/daggerheart-resources/)** - Curated collection of Daggerheart resources
   - Regularly updated community resource list
